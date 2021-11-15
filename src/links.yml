@@ -2,6 +2,10 @@
   url: https://1a23.com/ # 网站的 URL，请注意冒号后的空格
   img: https://sdn.geekzu.org/avatar/66a90bb0427b2ddd8366d21f96f17689?s=2048 # 网站 Logo 的 URL，请注意冒号后的空格
   text: "We create." # 网站的 Slogan，请置于双引号之中，请注意冒号后的空格
+"Bersella AI":
+  url: https://bersella-ai.cc/
+  img: https://bersella-ai.cc/uploads/avatar.png
+  text: "My memories and dreams"
 "BAKYU-N!!":
   url: https://timeout.moe/
   img: https://global.cdn.blingwang.cn/blog/links/timeout.jpg
@@ -33,6 +37,10 @@
 "gd1214b’s blog":
   url: https://blog.gd1214b.icu/
   img: https://blog.gd1214b.icu/images/avatar.png
+  text: ""
+"Herry的平行世界":
+  url: https://blog.herry001.com/
+  img: https://sdn.geekzu.org/avatar/ad2509d327ba89d7ce9c397d8560acf0?s=200
   text: ""
 "Indexyz Blog":
   url: https://blog.indexyz.me/
