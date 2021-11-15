@@ -1,7 +1,7 @@
 "1A23 Studio": # 请置于双引号之中
   url: https://1a23.com/ # 网站的 URL，请注意冒号后的空格
   img: https://sdn.geekzu.org/avatar/66a90bb0427b2ddd8366d21f96f17689?s=2048 # 网站 Logo 的 URL，请注意冒号后的空格
-  text: "" # 网站的 Slogan，请置于双引号之中，请注意冒号后的空格
+  text: "We create." # 网站的 Slogan，请置于双引号之中，请注意冒号后的空格
 "BAKYU-N!!":
   url: https://timeout.moe/
   img: https://global.cdn.blingwang.cn/blog/links/timeout.jpg
@@ -9,15 +9,15 @@
 "Cyberspace of Swung":
   url: https://www.swung0x48.com/
   img: https://global.cdn.blingwang.cn/blog/links/swung.png
-  text: ""
+  text: "Lost in cyberpunk."
 "Elepover's Blog":
   url: https://see.wtf/
   img: https://global.cdn.blingwang.cn/blog/links/elepover.png
-  text: ""
+  text: "Make undeniable rules to your own world."
 "FGHRSH 的博客":
   url: https://www.fghrsh.net/
   img: https://global.cdn.blingwang.cn/blog/links/fghrsh.png
-  text: ""
+  text: "记录日常生活，开发过程有用的东西，制作成果展示"
 "Fly_Emoji's Blog":
   url: https://flyemoji.xyz/
   img: https://global.cdn.blingwang.cn/blog/links/flyemoji.png
@@ -33,7 +33,7 @@
 "Indexyz Blog":
   url: https://blog.indexyz.me/
   img: https://global.cdn.blingwang.cn/blog/links/indexyz.png
-  text: ""
+  text: "Sharing light, even in death"
 "Jack2007Q！":
   url: https://Jack2007Q.github.io/
   img: https://cdn.jsdelivr.net/gh/Jack2007Q/Jack2007Q@V1.02/my_photo.jpg
@@ -41,11 +41,11 @@
 "Johnpoint's blog":
   url: https://blog.lvcshu.com/
   img: https://global.cdn.blingwang.cn/blog/links/johnpoint.jpg
-  text: ""
+  text: "怎么可以不折腾呢"
 "Justf's Channel":
   url: https://channel.justf.space/
   img: https://global.cdn.blingwang.cn/blog/links/justf.png
-  text: ""
+  text: "幸福如人饮水，冷暖自知。"
 "kn007的个人博客":
   url: https://kn007.net/
   img: https://global.cdn.blingwang.cn/blog/links/kn007.png
@@ -53,7 +53,7 @@
 "Lazymio's blog":
   url: https://ihomura.cn/
   img: https://global.cdn.blingwang.cn/blog/links/mio.png
-  text: ""
+  text: "Here is for something interesting."
 "LetITFly BBS":
   url: https://bbs.letitfly.me/
   img: https://global.cdn.blingwang.cn/blog/links/letitfly.jpg
@@ -93,7 +93,7 @@
 "Vigorous Pro":
   url: https://www.wevg.org/
   img: https://global.cdn.blingwang.cn/blog/links/wevg.org.jpg
-  text: ""
+  text: "巡礼者们朝着心中描绘的圣地，继续前进着。"
 "Xinger Pixiv Collection":
   url: https://xinger.vip/
   img: https://global.cdn.blingwang.cn/blog/links/xinger.jpg
