@@ -2,6 +2,10 @@
   url: https://1a23.com/ # 网站的 URL，请注意冒号后的空格
   img: https://sdn.geekzu.org/avatar/66a90bb0427b2ddd8366d21f96f17689?s=2048 # 网站 Logo 的 URL，请注意冒号后的空格
   text: "We create." # 网站的 Slogan，请置于双引号之中，请注意冒号后的空格
+"ALIVE-THEORY":
+  url: https://cicini.moe
+  img: https://cicini.moe/static/2021/09/MEW1X1.png
+  text: ""
 "Bersella AI":
   url: https://bersella-ai.cc/
   img: https://bersella-ai.cc/uploads/avatar.png
@@ -105,6 +109,10 @@
 "ShiYiBlog":
   url: https://blog.shiy1.com/
   img: https://global.cdn.blingwang.cn/blog/links/shiyi.ico
+  text: ""
+"SkipM4的日记本":
+  url: https://skipm4.com/
+  img: https://pic.skipm4.com/2021/05/23/a3f7e5a8daa8d.png
   text: ""
 "Vigorous Pro":
   url: https://www.wevg.org/
